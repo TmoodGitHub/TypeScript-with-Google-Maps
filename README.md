@@ -12,6 +12,7 @@ Appreciate the importance of design pattern, scalability, and loose coupling. Ot
 1. Download the repo
 2. Install Parcel Bundler to run Typescript in the browser
   * `npm install -g parcel-bundler`
+  * Type `parcel index.html` to build the project
   * After the build is complete, click on the localhost to view the work, typically `http://localhost:1234`
 
 There you go! Every refresh will display User and Company marker at different location on the map. You will also be able to click on each marker to view User or Company's information.
