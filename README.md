@@ -1,5 +1,5 @@
 # Simple project built with TypeScript
-To familiarize myself with the benefits of TypeScript; apply best practice and utilize best design pattern into building an app
+Utilize the benefits of TypeScript; apply best practice and best design pattern into building an app
 
 ## Description of the project
 The entire project is built with TypeScript. The objective is to use Google Map API with two markers: a User marker and a Company marker. The data collected are from NPM's Faker that generate random user name, company name, company catch phrase and longitude/latitude for both marker.
